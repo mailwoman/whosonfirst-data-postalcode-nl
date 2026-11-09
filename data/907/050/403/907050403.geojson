@@ -22,8 +22,7 @@
         85687055,
         102191581,
         404473801,
-        85633337,
-        101874299
+        85633337
     ],
     "wof:breaches":[],
     "wof:country":"NL",
@@ -34,7 +33,6 @@
             "continent_id":102191581,
             "country_id":85633337,
             "localadmin_id":404473801,
-            "locality_id":101874299,
             "postalcode_id":907050403,
             "region_id":85687055
         }
@@ -42,7 +40,7 @@
     "wof:id":907050403,
     "wof:lastmodified":1469696811,
     "wof:name":"8485KP",
-    "wof:parent_id":101874299,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-nl",
     "wof:superseded_by":[],
